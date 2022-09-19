@@ -1,7 +1,7 @@
 // challenge.ts
 interface User {
     name: string;
-    age: number;
+    age?: number;
     birthday?: string;
 }
 
